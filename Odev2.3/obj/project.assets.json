@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\EXCALIBUR\\Desktop\\C# Projects\\Odev2.3\\Odev2.3\\Odev2.3.csproj",
+      "projectUniqueName": "C:\\Users\\EXCALIBUR\\Desktop\\C# Projects\\e-commerse-project\\Odev2.3\\Odev2.3.csproj",
       "projectName": "Odev2.3",
-      "projectPath": "C:\\Users\\EXCALIBUR\\Desktop\\C# Projects\\Odev2.3\\Odev2.3\\Odev2.3.csproj",
+      "projectPath": "C:\\Users\\EXCALIBUR\\Desktop\\C# Projects\\e-commerse-project\\Odev2.3\\Odev2.3.csproj",
       "packagesPath": "C:\\Users\\EXCALIBUR\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\EXCALIBUR\\Desktop\\C# Projects\\Odev2.3\\Odev2.3\\obj\\",
+      "outputPath": "C:\\Users\\EXCALIBUR\\Desktop\\C# Projects\\e-commerse-project\\Odev2.3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\EXCALIBUR\\AppData\\Roaming\\NuGet\\NuGet.Config",
