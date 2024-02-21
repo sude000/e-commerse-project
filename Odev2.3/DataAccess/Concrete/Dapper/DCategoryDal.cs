@@ -40,8 +40,8 @@ public class DCategoryDal : ICategoryDal
     public void Delete(int id)
     {
         Console.WriteLine(id + " Dapper ile silindi!");
-        id--;
-        _categoryList.RemoveAt(id);
+        Category category = _categoryList.Where(c => c.Id == id).First();
+        _categoryList.Remove(category);
     }
 
     public List<Category> GetAll()
