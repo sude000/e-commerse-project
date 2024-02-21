@@ -51,7 +51,8 @@ public class EfCourseDal : ICourseDal
     public void Delete(string id)
     {
         Console.WriteLine(id + " Dapper ile silindi!");
-        _courseList.RemoveAt(Convert.ToInt32(id));   
+        Course course = _courseList.Where(c => c.Id == id).First();
+        _courseList.Remove(course);
     }
 
     public List<Course> GetAll()
